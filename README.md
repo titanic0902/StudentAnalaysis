@@ -1,0 +1,1 @@
+In this project, we analyze student scores based on the provided dataset. We visualize the data using matplotlib, seaborn, pandas, and numpy libraries. The dataset can be accessed via the following link: [Students Exam Scores Dataset](https://www.kaggle.com/datasets/desalegngeb/students-exam-scores). #DataScience #DataVisualization
